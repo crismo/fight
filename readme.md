@@ -2,4 +2,4 @@ Question A:
 
 What is 1+1 ?
 
-2
+1+1 = 2!
